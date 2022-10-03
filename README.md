@@ -4,7 +4,7 @@
 
 ### Background
 
-New, modern, digital city of the future. The times when the history ended. All goes well only a transport guy has many to do each they.
+New, modern, digital city of the future, with robo-vehicles on the street. The times when the history ended. All goes well only a transport guy has many to do each day.
 
 ### Theme
 
