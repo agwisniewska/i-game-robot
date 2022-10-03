@@ -16,7 +16,7 @@ It’s a story being told to the player. So both a player knows what happens and
 
 ### Concept
 
-You’re Leo. You live in a modern, clean and a happy city of future called Fakelan. It seems like the history has ended and nothing ever will destroy it. Or at least it’s how the habitants see it, but as you are in charge of transport each day you wake up you see that you’re only a step away from the disaster. It’s because you’re in charge of the transport, many need your help to work smoothly so you need to do your daily task.
+You’re Leo. You live in a modern, clean and a happy city of future called fAIkeLand. It seems like the history has ended and nothing ever will destroy it. Or at least it’s how the habitants see it, but as you are in charge of transport each day you wake up you see that you’re only a step away from the disaster. It’s because you’re in charge of the transport, many need your help to work smoothly so you need to do your daily task.
 
 As a result, you pick up workers to their offices, children to school, a food to the stores or sick people to the hospital, otherwise the sick will die, the employeers become unemployed and end up on the street or people will get sick or suffer from food shortages. A huge responsability, huh? But you don’t complain, you’re happy to help them all and keep this world in a good condition.
 
@@ -32,7 +32,7 @@ So, you try to get new abilites and save the city, but your enemies doesn’t st
 
 ### Characters
 
-1.  John - you, the chairman of the transport in the city
+1.  Leo - you, the chairman of the transport in the city
     
 2.  Tom - a car mechanic (magician) your friend who knows everything about the cars and can upload any update to your car which is needed remotely *but watch out, he is a miser, he doesn’t do anything without a payment)
     
