@@ -1,107 +1,113 @@
-# I, Game & Robot - *Last battle in the AiLand*
-
-  
+# I, Game & Robot
 
 ## Create its background, theme, narrative framework, concept, characters, plots, etc.
 
-  
-
 ### Background
-
-### New, modern, digital city of the future called AILand, with robo-vehicles, robots and people live together and able to communicate.
+The year 2022 in a random, nicely-cloudly agglomeration. The upcoming changes can be felt in the air. And the robo-vehicle you joined the party to be tested in real challenges. 
 
 ### Theme
 
-  
+It’s a subject, an intended experience for the players.
 
-revolves around autonomous devices and old-fashion cars companies that are reluctant to change and do their best to persuade people that autonomous cars are not more than a sophisticated trend and because AI is not smart enough it puts the people who use them in danger, in other words, there are problems they cannot solve
-
-  
+Fully digital, AI-driven world of the future has their challenges to achieve in advance and you help to make a smooth co-existance between robots, people and robo-vehicles possible. But you’re invited to be the creator of it, as a new world won’t happen without your engagement. Players are invited to make familiar with challenges of the digital world and feel their creative potential so they can evolve from being consumer to be the creator. 
 
 ### Narrative Framework
 
-  
+Digital, AI-driven cities of the future won’t happen without your engegament. You’re the part of it who builds it step by step no matter of the obstacles you have to overcome once you made your potential free, and you really take the challenge of be the creator instead of only a customer. So understand the challenges first, solve them step by step, and see the real creator in you. To fill this the game must be broken into scenes, and each of this scene could be a puzzle, an enemy encounter and so on, with a requirement so not to be repeat many times so a lot of logic and gameplay has to be coded into the world.
 
-It’s a story being told to the player, who is both a robo-vehicle and a programmer. So a player knows what is current task but has to react to the events on the road at a time. Some of them are solvable via custom configurations available to be set via setting panel, but some make the robo-vehicle not know what to do. So while the end of the mission is uknown because it depends how both robo-vehicle and a programmer solve their challenges, but the player is definietely being guided through the game.
-
-  
 
 ### Concept
 
-A digital, modern city called AiLand. IoT and smart houses are already there while drones deliver post and groceries to every house. Robots and people co-live togethe, and recently the autonomyous robo-vehicles joined the party. But not everyone has come to terms with the changes, and the old world is making itself felt.
+Building a fully digital future city when robots and people live together and AI make all things much easier. Enagage a player enough so they feel like a real co-creators of the future world which can also make a toll of their efforts in the reality. Help people to understand what are the challenges of the full digitalization so what problems needs to be solved in a easy and understandable way, but also present them with the prizes it carries. Make them understand that :
+1. it’s not happening on their own, but it requires the engagement and a feedback,
+2. as people they has to evaluate from being only a consumer to becoming a producer as well,
+3. their decisions matter,
+4. there are some problems to be solved to move to digital world 
+    a. like huge money resources are required, 
+    b. different road obstacles which needs to be solved so the robo-vehicles can become fully autonomous like detours, proper infrastructure, 
+    c. social attitude, other drivers’ behaviour and the unpredictability of this, 
+    d. fast reaction, smooth and undisturbed connection between all vehicles, 
+    e. road signs and road rules, hackers activitiy) 
+    f. controlled vs uncontrolled condition troubles (pre-defined roads as a first step)
 
-  
+Also, an imporant part can also be the enemies the players need to fight against. One example can be the people who are against the changes and want to stop them, like traditional cars’ manufacturers.  
 
-Despite many tests being done, traditional car manufacturers are still trying to prove that there are obstacles that autonomous cars cannot overcome and are therefore dangerous to humans.
-
-  
-
-As a player, you are the epitome of a robo-vehicle and embark on all sorts of journeys. On one mission you transport a family with a toddler on vacation, in another you transport an organ for transplant to the hospital, in another you take a rock star to a concert, and in another you take an elderly lady to an afternoon pottery class.
-
-  
-
-These are just examples but none of them would be a peaceful trip. You need to be constantly focused, modify yourself and update your setting accordingly to what is happening on the road, and sometimes when you’re in trouble and you cannot understand what’s going on you call to your friend (or the second you) - Matt, AI Developer, who needs to solve and implement what you don’t know yet.
-
-  
+**The main goal to achieve which needs to be clear for the user is to make a future, digital world the reality and keep their acheivements in a real life, so they can keep the feeling of being creators** 
 
 ### Characters
+1. Robo-vehicle - you
+2. Matt  - an AI developer, which helps in building a new world.
+3. People you cooperate with
+3. Enemies - they aren’t open to any changes and put different obstacles on your road you need to fight against
 
-1.  Robo-vehicle - you, the chairman of the transport in the city
-    
-2.  Matt - an AI developer (also you). He spends his days in a garage and keep in continous touch with you (robo vehicle) trying to fix any holes in a code regarding the experience and teach you the things you don’t know yet.
-    
-3.  Josepf - cars’ manufactory owner. He manages the team of people who target to set traps that an autonomous car cannot cope with
-    
+### Plot
 
-  
+Your city called Land needs is on its way to become fully digitable served by AI, so your main aim of the game is to make it AI - Land, where robots, people and robo-vehicles co-live together. 
 
-### Plots
 
-  
+Defined as a sequence of events, each event occurring in a specific fashion. This sequence can be a branching one; the important factor is that all is set and known beforehand
 
-#### Plot 1
+the players build the city infrastructure 
+the players solve daily challenges which can help them to move forward and make people familiar with the power of the technology
+the players solves the riddles to move forward and achieve next level
 
-  
-  
+### Define the game’s type and provide core gameplay instruction, and a key aspect must contain how to customize robo-vehicle (NEV).
 
-#### Plot 2
 
-  
+A role-playing game, but a casual game-play, so each action need to be separated and easy to do druing the break (and it has to move the user forward)
 
-#### Plot 3
+A player (a robo-vehicle) which cooperates with a AI developer in rebuilding current cities to become a fully digitable and modern. 
 
-  
+The main idea is to present all possible customizations of the robo-vehicle and design the missions it needs to take accordingly. Each feature (a setting) it can take should match to the task/mission it needs to complete (eg. to take packages from point A to point B a robo-vehicle needs to prepare an extra space on board, so it need to evolve in this way). Also make a traps from the real obstacles AI experience on its way to be fully used in everyday life. 
 
-#### Plot 4
+To get features to complete missions a player needs money (special tokens) that they can earn by engaging into refactoring the cities, so to make them robo/AI - friendly, and also by doing missions. Some can be even received as drop. Also the missions’ difficulty evolves step by step, so the first missions are possible to be taken without any special settings, while the upcoming has their requirements. 
 
-  
+### Describe its genre conventions and define its concept art style using moodboard. It must contain a garage as its key scenario.
 
-## Define the game’s type and provide core gameplay instruction, and a key aspect must contain how to customize robo-vehicle (NEV).
+The main are is a modern-looking, digital city. Both people and the robots on the street.  Light colors, modern design.
 
-  
-  
+**Art** (should match the vehicle project and be easy and basic enough to be able to be used on mobile devices) 
+a city view (roads, crossroads, traffic, etc)
+citiziens’ house view
+a garage with a AI-human station
+deauto included
+colors and shapes should match deauto.io design 
+2 hamburger menus on two sides? one to open panel settings on demand (seetings to customize deauto.io) the second (phone icon) connect with Matt - AI developer
+GUI mock-up simulation
+Map view so we can check the daily plan 
 
-A role-playing game
 
-To complete each task you need to customize your robo-vehicle. Because you don’t know what to expect you can’t do it in advance but you have to modify some of your features while on road (like wheels, an engine, windows, wipers, doors, 4x4 drive, a bumper and so on)
+https://www.behance.net/gallery/110856143/Various-illustrations-2021/modules/724790711
+https://www.behance.net/gallery/110856143/Various-illustrations-2021/modules/724404717
+https://www.behance.net/gallery/110856143/Various-illustrations-2021/modules/724412243
 
-But the evil cars’ manufactury is trying to deceive you and provoke a situation you may not be prepared for. There could be different examples like spilled oil on the street, an animal running out of the way, unexpected change of direction of movement, switching off currents etc. In that case you need to contact Matt quickly hoping that he solves a riddle before time ends.
 
-  
+### Provide a feasibility analysis report on persona, marketing, and gameplay research.
 
-## Describe its genre conventions and define its concept art style using moodboard. It must contain a garage as its key scenario.
+### Persona
 
-  
+### Gameplay research
+https://forms.gle/VviZecQip3472ymXA 
 
-The main are is a modern-looking, digital city. Both people and the robots on the street. Drones flying in the air. Light colors, modern design.
+### Marketing
 
-  
+1. create a new tab on deauto.io page for a game
+2. via FB, Twitter and Instagram fanpage
+3. game industry platforms
+4. discord channels for players
 
-## Provide a feasibility analysis report on persona, marketing, and gameplay research.
-
-  
-
-## Besides, submit a development plan based on your feasibility analysis, including the development cycle, personnel, cost, and other development plans that may support.
-
-  
+### Besides, submit a development plan based on your feasibility analysis, including the development cycle, personnel, cost, and other development plans that may support.
+ 
+**Development cycle**
+1. Requirement analysis
+two or one platform, native solution or cross-platform: according to latest survey around 70% of mobiles use Android, so it would be more beneficial to start from this system, so Kotlin or Java as a base 
+2. Planning
+3. Software design such as architectural design
+4. Software development
+5. Testing
+6. Deployment
+ 
+ 
 You can continue to optimize your proposal by getting feedback from other participants/challenges. Must submit your WIP material EVERY Monday to support participants in the other challenges.
+
+
