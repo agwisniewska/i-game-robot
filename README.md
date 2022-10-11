@@ -1,61 +1,60 @@
-# I, Game & Robot
+# I, Game & Robot - Last battle in the AI- Land
 
 ## Create its background, theme, narrative framework, concept, characters, plots, etc.
 
 ### Background
-The year 2022 in a random, nicely-cloudly agglomeration. The upcoming changes can be felt in the air. And the robo-vehicle you joined the party to be tested in real challenges. 
+The year 2022 in a random, nicely-cloudly agglomeration, called the AI - Land. The upcoming changes can be felt in the air. And the robo-vehicle just joined the party to be tested in real chaallenges. But not all happy, the traditional cars' manufacturers want to keep their power and do all they can to prove that autonomous, decetralized cars are not the way to go. Who will win this game?
 
 ### Theme
 
 It’s a subject, an intended experience for the players.
 
-Fully digital, AI-driven world of the future has their challenges to achieve in advance and you help to make a smooth co-existance between robots, people and robo-vehicles possible. But you’re invited to be the creator of it, as a new world won’t happen without your engagement. Players are invited to make familiar with challenges of the digital world and feel their creative potential so they can evolve from being consumer to be the creator. 
+Fully digital, AI-driven world of the future has their challenges to achieve in advance to make a smooth co-existance between robots, people and robo-vehicles possible. But you’re supposed to be the creator of it, as a new world won’t happen without your engagement. Players are invited to make familiar with challenges of the digital world and feel their creative potential so they can evolve from being consumer to be the creator, and take the power from who don't want to give it. 
 
 ### Narrative Framework
 
-Digital, AI-driven cities of the future won’t happen without your engegament. You’re the creator who builds it step by step no matter of the obstacles you have to overcome once you made your potential free, and you really take the challenge of be the creator instead of only a customer. So understand the challenges first, solve them step by step, and see the real creator in you. Also you would keep all your created. 
+Digital, AI-driven cities of the future won’t happen without your engegament. Traditional cars' manufacturers don't want to lose their monopoly on the market, and don't want to appove the users as the real creators. So You’re the creator who builds it step by step no matter of the obstacles you have to overcome once you made your potential free, and you really take the challenge of be the creator instead of only a customer. So understand the challenges first, solve them step by step, and see the real creator in you. Also you would keep all your created. 
 The game must be broken into scenes, and each of this scene could be a puzzle, an enemy encounter and so on, with a requirement so not to be repeat many times so a lot of logic and gameplay has to be coded into the world.
 
 
 
 ### Concept
 
-Building a fully digital future city when robots and people live together and AI make all things much easier. Enagage a player enough so they feel like a real co-creators of the future world which can also make a toll of their efforts in the reality. Help people to understand what are the challenges of the full digitalization so what problems needs to be solved in a easy and understandable way, but also present them with the prizes it carries. Make them understand that :
+A battle between the old world, reluctant to digital changes, personified as tradtional cars' manufacturers owners' and people who want to profit from AI.
+The main aim is the fully digital future city when robots and people live together and AI makes all things much easier. As mentioned it can give people back their power they lost because of few gigants' monopoly on the market. Through the game, we should enagage a player enough so they feel like a real co-creators of the future world which can also make a toll of their efforts in the reality. By guiding them through the story, also help people to understand what are the challenges of the full digitalization and what problems needs to be solved, and do it in a memorable way - as a  gameplay between the parties (the users, who can profit from digitalisation and decentralization) and the old's worlds leftovers, those, who don't want to lose their power, and are presented in the game as traditonal cars' manufacturers' managers  and owners. 
+
+Through missions and events a game can touch several problems like:
 1) it’s not happening on their own, but it requires the engagement and a feedback,
 2) as people they has to evaluate from being only a consumer to becoming a producer as well,
 3) their decisions matter,
- 	2) there are some problems to be solved to move to digital world - like huge money resources are required, different road obstacles which needs to be solved so the robo-vehicles can become fully autonomous like detours, proper infrastructure and vehicles’ communication, social attitude, other drivers’ behaviour and the unpredictability of this, fast reaction, smooth and undisturbed connection between all vehicles, road signs and road rules, hackers activitiy) controlled vs uncontrolled condition troubles (pre-defined roads as a first step), worse weather conditions
-
-Also, an imporant part can also be the enemies the players need to fight against. One example can be the people who are against the changes and the creators’ era and want to stop them, like traditional cars’ manufacturers.  
+4) there are some problems to be solved to move to digital world - like huge money resources are required, different road obstacles which needs to be solved so the robo-vehicles can become fully autonomous like detours, proper infrastructure and vehicles’ communication, social attitude, other drivers’ behaviour and the unpredictability of this, fast reaction, smooth and undisturbed connection between all vehicles, road signs and road rules, hackers activitiy) controlled vs uncontrolled condition troubles (pre-defined roads as a first step), worse weather conditions
 
 
 **The main goal to achieve which needs to be clear for the user is to make a future, digital world the reality and keep their acheivements in a real life, so they can keep the feeling of being creators** 
 
 ### Characters
-1. Main player - you
+1. Main player - you (you can also be a robo-vehicle itself - *something to think about*)
 1. A Robo-vehicle
 2. Matt  - an AI developer, which helps in building a new world.
-3. People you cooperate with
+3. People you help and work with
 3. Enemies - they aren’t open to any changes and put different obstacles on your road you need to fight against
 
 ### Plot
 
 
-As a player you live a calm, daily, yer a bit boring life, but one day you received an email that destroyed your peace, and you’ve found out that you had been chosen to participate in rebuilding a world to be fully digital. Although you feel a bit tired and seems to be out of your creativity and energy you can’t refuse. Through messages being sent to your inbox you are being guided through different challenges in various districts of the city, and supported by a robo vehicle, and a AI developer. 
-Day by day, you move forward, but don’t think that all will go smoothly. The are many enemies who want to keep the world as it is, so they annhilate your efforts, and you need to always be one step before them. The game is finished once you solved all of them and defeat all enemies, on your rebuidling road, which represent those who are againt changes.
+As a player you live a calm, daily, yet a bit boring life, but one day you received an email that destroyed your peace, and you’ve found out that you had been chosen to participate in rebuilding a world to be fully digital. Although you feel a bit tired and seems to be out of your creativity and energy you can’t refuse. Through messages being sent to your inbox you are being guided through different challenges in various districts of the city, and supported by a robo vehicle, and a AI developer. Don’t think that all will go smoothly, though. Your enemies, the leftovers of the current world, are all around, and because they want to keep the world as it is, so they annhilate your efforts, and you need to always be one step before them. The game is finished once you solved all of your challenges and by that you defeat all enemies.
 
 To sum up:
 
-the player builds the city infrastructure 
-the player solves daily challenges which can help them to move forward and make people familiar with the power of the technology
-the player solves the riddles to move forward and achieve next level
+the player solves standard challenges on the road while doing daily tasks,
+the player solves the riddles created by their enemies and overcome the traps
 
 ### Define the game’s type and provide core gameplay instruction, and a key aspect must contain how to customize robo-vehicle (NEV).
 
 
 A role-playing game, but a casual game-play, so each action need to be separated and easy to do druing the break (and it has to move the user forward)
 
-A player (a robo-vehicle) which cooperates with a AI developer in rebuilding current cities to become a fully digitable and modern. 
+A player (a robo-vehicle) which cooperates with a AI developer in defeating its enemies on the world's road to be fully digitable and modern. 
 
 The main idea is to present all possible customizations of the robo-vehicle and design the missions it needs to take accordingly. Each feature (a setting) it can take should match to the task/mission it needs to complete (eg. to take packages from point A to point B a robo-vehicle needs to prepare an extra space on board, so it need to evolve in this way). Also make a traps from the real obstacles AI experience on its way to be fully used in everyday life. 
 
