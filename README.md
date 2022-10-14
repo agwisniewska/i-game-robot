@@ -131,10 +131,15 @@ https://forms.gle/VviZecQip3472ymXA
 
 ### Marketing
 
-1. create a new tab on deauto.io page for a game
+1. Create a new tab on deauto.io page for a game
+    * Focus on writing articles about the game functionality to increase the SEO ranking, it is crucial to get the origin of the player's browser search engines
+    * Find the niche in long-tail keywords and based on the research promote the game by including them in the well-tailored article.
+    * Ideas for the articles(play to earn, features in-game, building community, Robo cars benefits, Web3 sector)
 2. via FB, Twitter and Instagram fanpage
 3. game industry platforms
 4. discord channels for players
+5. Define user persona
+6. Lasered messages to a specific audience based on created user personas
 
 ### Besides, submit a development plan based on your feasibility analysis, including the development cycle, personnel, cost, and other development plans that may support.
  
